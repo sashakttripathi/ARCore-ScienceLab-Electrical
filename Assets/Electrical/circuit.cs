@@ -19,7 +19,7 @@ namespace Electrical {
         GameObject VoltageSource = null;
 
         Ammeter _ammter;
-
+    
     }
 
     public class components : MonoBehaviour
