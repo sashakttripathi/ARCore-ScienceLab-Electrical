@@ -5,7 +5,7 @@ namespace Electrical {
     public class ResistanceBoxPinManager : MonoBehaviour
     {
         string tagname;
-        Toggle _toggle;
+        Toggle _toggle;  // When changes is UI this can be used for callbacks - Useful
         ResValue _resValue;
 
         void Start()
